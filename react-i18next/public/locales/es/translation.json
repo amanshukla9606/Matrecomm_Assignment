@@ -1,0 +1,19 @@
+{
+  "main": {
+    "header": "Bienvenido",
+    "new_butto3_one": "El servicio de respuesta está deshabilitado por algún tiempo",
+    "new_butto3_all": "El servicio de respuesta está deshabilitado por algún tiempo",
+    "new_button3_other": "El servicio de respuesta está deshabilitado por algún tiempo",
+    "new_butto2_one": "Responder",
+    "new_button2_other": "Responder",
+    "new_button_one": "+1 Mensaje",
+    "new_button_other": "+1 Mensaje",
+    "new_messages_one": "Tienes un mensaje nuevo",
+    "new_messages_other": "Tienes {{count}} mensajes nuevos",
+    "current_date": "Hoy es {{date, DATE_LONG}}",
+    "incoming_message": "Tienes un nuevo mensaje de {{from}}",
+    "message_contents": "Él dice: {{body}}",
+    "message_contents_male": "Él dice: {{body}}",
+    "message_contents_female": "Él dice: {{body}}"
+  }
+}

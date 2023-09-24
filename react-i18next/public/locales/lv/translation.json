@@ -1,0 +1,22 @@
+{
+  "main": {
+    "header": "Laipni",
+    "new_button3_zero":"Reaģēšanas pakalpojums kādu laiku ir atspējots",
+    "new_button3_one":"Reaģēšanas pakalpojums kādu laiku ir atspējots",
+    "new_button3_other":"Reaģēšanas pakalpojums kādu laiku ir atspējots",
+    "new_button2_zero":"Atbildēt",
+    "new_button2_one":"Atbildēt",
+    "new_button2_other":"Atbildēt",
+    "new_button_zero": "+1 Ziņa",
+    "new_button_one": "+1 Ziņa",
+    "new_button_other": "+1 Ziņa",
+    "new_messages_zero": "Jums ir {{count}} jauna ziņa",
+    "new_messages_one": "Jums ir viena jauna ziņa",
+    "new_messages_other": "Jums ir {{count}} jaunas ziņas",
+    "incoming_message": "Jums ir jauna ziņa {{from}}",
+    "current_date": "Šodien ir {{date, DATE_LONG}}",
+    "message_contents": "Viņi saka: {{body}}",
+    "message_contents_male": "Viņš saka: {{body}}",
+    "message_contents_female": "Viņa saka: {{body}}"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "main": {
+    "header": "Welcome",
+    "new_button3_one": "Responce Service Is Disabled For Sometime",
+    "new_button3_other": "Responce Service Is Disabled For Sometime",
+    "new_button2_one": "Reply",
+    "new_button2_other": "Reply",
+    "new_button_one": "+1 Message",
+    "new_button_other": "+1 Message",
+    "new_messages_one": "You have one new message",
+    "new_messages_other": "You have {{count}} new messages",
+    "current_date": "Today is {{date, DATE_LONG}}",
+    "incoming_message": "You have a new message from {{from}}",
+    "message_contents": "They say: {{body}}",
+    "message_contents_male": "He says: {{body}}",
+    "message_contents_female": "She says: {{body}}"
+  }
+}
